@@ -1,4 +1,4 @@
-API_TELEGRAMM_TOKEN = '5668293261:AAHIAHHS0lEm95THk7-6Uegg4_dCT7v5YCg'
+API_TELEGRAMM_TOKEN = 'YOU TELEGRAM TOKEN'
 list_day_1 = ['1day', '2day', '3day', '4day', '5day', '6day', '7day', '8day', '9day', '10day', '11day', '12day', '13day',
         '14day', '15day', '16day', '17day', '18day', '19day', '20day', '21day', '22day', '23day', '24day', '25day',
         '26day', '27day', '28day', '29day', '30day', '31day']
